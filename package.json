@@ -1,0 +1,30 @@
+{
+  "name": "file-upload-server",
+  "version": "1.0.0",
+  "description": "node js app for file uploading & testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "node .",
+    "start": "node . --inspect=65450"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VolkovVlad/file-upload-server.git"
+  },
+  "keywords": [
+    "file",
+    "upload",
+    "testing",
+    "server"
+  ],
+  "author": "Vladlen Volkov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VolkovVlad/file-upload-server/issues"
+  },
+  "homepage": "https://github.com/VolkovVlad/file-upload-server#readme",
+  "dependencies": {
+    "fastify": "^2.10.0",
+    "fastify-file-upload": "^2.0.1"
+  }
+}
