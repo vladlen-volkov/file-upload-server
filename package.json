@@ -24,7 +24,7 @@
   },
   "homepage": "https://github.com/VolkovVlad/file-upload-server#readme",
   "dependencies": {
-    "fastify": "^2.10.0",
+    "fastify": "^2.15.1",
     "fastify-file-upload": "^2.0.1"
   }
 }
